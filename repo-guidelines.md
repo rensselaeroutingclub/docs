@@ -8,7 +8,7 @@ These guidelines define how the the Rensselaer Outing Club Documents repository 
 2. Follow the [making changes](#making-changes) workflow below to make changes.
 3. Guidelines and other written materials should be written in [Markdown](https://www.markdownguide.org/cheat-sheet/) so they may be easily modified.
 
-## Issues
+## [Issues](https://github.com/rensselaeroutingclub/docs/issues)
 
 Issues are used to track progress, ask questions, and make suggestions.
 
