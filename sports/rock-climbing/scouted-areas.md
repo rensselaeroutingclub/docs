@@ -1,6 +1,6 @@
 # Scouted Areas
 
-After a scouting trip has been taken to a new or unfamiliar area, and if the leader and chair concur, the climbing area can be added to the scouted areas list.
+After a scouting trip has been taken to a new or unfamiliar area, the climbing area can be added to the scouted areas list if the leader and chair concur.
 
 ## Thacher State Park
 
