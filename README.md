@@ -4,7 +4,7 @@ This repository contains documents related to the Rensselaer Outing Club, its ac
 
 ## Sports
 
-- [Outdoor Rock Climbing](./rock-climbing)
+- [Outdoor Rock Climbing](./sports/rock-climbing)
 
 ## Constitution
 
