@@ -21,6 +21,8 @@ It shall also be the responsibility of the Rock Climbing Chair to complete all g
 
 It shall also be the responsibility of the rock climbing chair to ensure that all climbing leaders are adhering to club rules and trip guidelines. Participants must be able to entrust their safety to leaders. Any leader who is not maintaining their skills or following the climbing guidelines should be referred to the Executing Committee so that their leadership status may be sanctioned.  
 
+The rock climbing chair is responsible for maintaining the leaders dataset found [here](leaders.csv).
+
 ## Scouted Areas
 
 It shall be the duty of the rock climbing chair to maintain a list of scouted areas. There shall be a joint responsibility between leaders and the chair to amend that list when a new area has been classified. An example entry can be found in Rock Climbing Guidelines.  
