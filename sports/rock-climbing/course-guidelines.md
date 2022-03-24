@@ -52,6 +52,6 @@ At the end of the course, each participant will have the instructor deem them pr
 | Proficient | Not Proficient |
 | --- | --- |
 
-#### Instructor Signature and Date
+#### Instructor Signature and Date:
 
-#### Commentary
+#### Commentary:
