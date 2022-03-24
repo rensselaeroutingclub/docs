@@ -10,7 +10,7 @@ Outdoor roped rock climbing!
 
 ## Roles
 
-- [Current and Past Leaders](./leader.csv)
+- [Current and Past Leaders](./leaders.csv)
 - [Current and Past Chairs](./chairs.csv)
 
 ## Other
