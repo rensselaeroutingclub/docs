@@ -25,6 +25,7 @@ Maintaining good crag etiquette is a critical part of keeping climbing areas ava
 
 ### Specific Rules
 
+0. No patch for anyone 
 1. Everyone shall wear helmets while climbing or near the base of a cliff.
 2. Nobody shall approach the edge of a cliff without appropriate protection.
 3. No climbing during severe weather conditions.
