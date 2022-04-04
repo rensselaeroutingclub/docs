@@ -1,6 +1,6 @@
 # Climbing Leadership Clinic
 
-## Day One (10AM to 4PM at the wall)
+## Day One (10AM to 4PM at the wall w/ 12-1pm lunch)
 
 1. Overview of Rock Climbing leadership (15 minutes)
 	- Ideals
@@ -12,6 +12,7 @@
 	- Risk Management
 	- Leave no trace
 	- Ethics
+	- Crag Etiquette
 	- Trip Types etc.
 3. Personal Skills	(1.5 hours)
 	- Knots
@@ -44,6 +45,7 @@
 	- Directionals and Swings
 5. Rescue Skills (10 minutes talk)
 6. Gear Inpection Etc. (15 minutes)
+7. Questions
 
 ## Day Two (Some future date at outdoor crag)
 
